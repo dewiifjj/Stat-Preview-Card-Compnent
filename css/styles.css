@@ -50,6 +50,7 @@ body {
 .split-left h1 {
   font-size: 35px;
   padding-top: 50px;
+  font-weight:700;
 }
 
 .split-left a{
